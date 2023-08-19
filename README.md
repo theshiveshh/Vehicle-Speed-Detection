@@ -25,4 +25,4 @@ Architecture diagram
 ![Arch](https://github.com/theshiveshh/Vehicle-Speed-Detection/assets/103254362/55fee723-6016-4b2c-9b9f-9c129f8536b9)
 
 How it works 
-https://github.com/theshiveshh/Vehicle-Speed-Detection/assets/103254362/1e1c0949-26c6-4b58-bcd6-d64f0e67906c
+https://github.com/theshiveshh/Vehicle-Speed-Detection/assets/103254362/343489fe-513b-4723-acfc-f6484b54b81c
